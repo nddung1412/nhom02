@@ -1,0 +1,1 @@
+<div class="fb-comments" data-href="http://{$smarty.server.HTTP_HOST}{$smarty.server.REQUEST_URI}" data-colorscheme="{$colorscheme}" data-width="{$width}" data-num-posts="{$num_posts}"></div>

@@ -1,0 +1,1 @@
+<a href="#" style="right:{$stx}; bottom:{$sty}; opacity:{$sto}; {if $stc==1}background: url('{$url}icon_top.png') no-repeat;{else}background: url('{$url}icon_top2.png') no-repeat;{/if}" class="mypresta_scrollup">{l s='scroll' mod='scrolltop'}</a>

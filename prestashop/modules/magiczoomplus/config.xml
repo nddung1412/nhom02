@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>magiczoomplus</name>
+	<displayName><![CDATA[Magic Zoom Plus]]></displayName>
+	<version><![CDATA[5.5.17]]></version>
+	<description><![CDATA[Beautiful zoom and enlarge effect for your product images.&amp;nbsp;&lt;a target=&#039;_blank&#039; title=&#039;Watch tutorial&#039; style=&#039;color: #268CCD; text-decoration: underline; font-weight: bold;&#039; href=&#039;http://www.youtube.com/watch?v=yAix6lXqyAw&#039;&gt;Watch tutorial&lt;/a&gt;.]]></description>
+	<author><![CDATA[Magic Toolbox]]></author>
+	<tab><![CDATA[Tools]]></tab>
+	<confirmUninstall><![CDATA[All magiczoomplus settings would be deleted. Do you really want to uninstall this module ?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

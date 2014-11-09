@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>scrolltop</name>
+	<displayName><![CDATA[Scroll to top]]></displayName>
+	<version><![CDATA[1.2.0]]></version>
+	<description><![CDATA[Nice and modern button to scroll page to top]]></description>
+	<author><![CDATA[mypresta.eu]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

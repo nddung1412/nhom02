@@ -1,0 +1,7 @@
+.mypresta_scrollup{
+    width:40px;
+    height:40px;
+    position:fixed;
+    display:none;
+    text-indent:-9999px;
+}
